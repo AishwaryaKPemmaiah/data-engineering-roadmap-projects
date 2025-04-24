@@ -1,8 +1,8 @@
-# 🧠 Data Engineering Roadmap Projects
+ Data Engineering Roadmap Projects
 
 This repository tracks my hands-on learning journey in Data Engineering, inspired by industry resources.
 
-## 🧰 Projects
+Projects
 
 | # | Project Name | Description |
 |---|--------------|-------------|
@@ -12,7 +12,7 @@ This repository tracks my hands-on learning journey in Data Engineering, inspire
 | 4 | Real-Time Streaming | Kafka + PySpark structured streaming |
 | ... | ... | ... |
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - PySpark
 - PostgreSQL
@@ -21,5 +21,5 @@ This repository tracks my hands-on learning journey in Data Engineering, inspire
 - GCP / Azure / AWS
 - Docker, VS Code
 
-## 📈 Goal
+##  Goal
 To build a real-world ready Data Engineering portfolio and solidify core concepts.
