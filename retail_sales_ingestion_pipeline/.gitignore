@@ -1,0 +1,26 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore database config
+config/db_connection.ini
+
+# Ignore data files (optional)
+data/raw/
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs
+*.log
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
