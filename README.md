@@ -1,25 +1,35 @@
- Data Engineering Roadmap Projects
+# 📚 Learning Data Engineering
 
-This repository tracks my hands-on learning journey in Data Engineering, inspired by industry resources.
+This repository tracks my learning journey in Data Engineering. It includes multiple hands-on projects designed to apply concepts like batch processing, data modeling, orchestration, and streaming in real-world scenarios.
 
-Projects
+## 🚀 Projects in this repo:
 
-| # | Project Name | Description |
-|---|--------------|-------------|
-| 1 | [PySpark CSV to Postgres](01_pyspark_csv_to_postgres) | Ingest CSV data using PySpark and store it in PostgreSQL |
-| 2 | Airflow ETL Pipeline | Orchestrate data loading with Apache Airflow |
-| 3 | Data Modeling in PostgreSQL | Use star schema & SCD logic |
-| 4 | Real-Time Streaming | Kafka + PySpark structured streaming |
-| ... | ... | ... |
+| #  | Project Name                 | Description                                           |
+|----|------------------------------|-------------------------------------------------------|
+| 1  | PySpark CSV to Postgres      | Read CSV with PySpark, clean/transform, write to DB  |
+| 2  | Airflow ETL Pipeline         | Build and schedule ETL jobs with Apache Airflow      |
+| 3  | Data Modeling in PostgreSQL  | Implement star schema and Slowly Changing Dimensions |
+| 4  | Real-Time Streaming          | Stream data using Kafka and PySpark                  |
 
-## Tech Stack
+---
+
+## 💡 Goal
+
+To learn and apply data engineering skills by building real-world mini-projects using open-source and cloud tools.
+
+## 🧰 Tools & Tech
 
 - PySpark
 - PostgreSQL
 - Apache Airflow
-- Kafka
-- GCP / Azure / AWS
-- Docker, VS Code
+- Apache Kafka
+- Docker
+- Cloud Platforms (AWS, GCP, Azure)
 
-##  Goal
-To build a real-world ready Data Engineering portfolio and solidify core concepts.
+---
+
+## 📌 Notes
+
+- This is a learning-focused repo — perfect for beginners exploring the data engineering path.
+- Contributions or suggestions are welcome!
+
