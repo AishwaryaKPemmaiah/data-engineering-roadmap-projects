@@ -1,6 +1,6 @@
 # 📚 Learning Data Engineering
 
-This repository tracks my learning journey in Data Engineering. It includes multiple hands-on projects designed to apply concepts like batch processing, data modeling, orchestration, and streaming in real-world scenarios.
+This repository tracks my learning journey in Data Engineering. It includes multiple hands-on projects designed to apply concepts like batch processing, data modeling, orchestration, and streaming in real-world scenarios
 
 ## 🚀 Projects in this repo:
 
